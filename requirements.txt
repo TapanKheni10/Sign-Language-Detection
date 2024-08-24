@@ -1,0 +1,6 @@
+opencv-python
+cvzone
+mediapipe
+numpy==1.26.0
+pandas
+tensorflow
