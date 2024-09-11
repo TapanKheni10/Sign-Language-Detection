@@ -12,9 +12,9 @@ width = 640
 offset = 20
 imgSize = 300
 class_idx = 0
-number_of_images = 50
+number_of_images = 100
 
-class_list = ["E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+class_list = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "L", "3", "4"]
 
 def create_processed_image(frame, hands):
     if hands:

@@ -8,7 +8,7 @@ import math
 offset = 20
 imgSize = 300
 
-class_list = ["A", "B", "C", "D"]
+class_list = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "L", "3", "4"]
 
 def get_sign_prediction(frame, hands, img):
     if hands:
